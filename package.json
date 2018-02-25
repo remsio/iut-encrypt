@@ -1,0 +1,24 @@
+{
+  "name": "@remsio/iut-encrypt",
+  "version": "1.0.0",
+  "description": "Encrypt plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remsio/iut-encrypt.git"
+  },
+  "author": "remsio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remsio/iut-encrypt/issues"
+  },
+  "homepage": "https://github.com/remsio/iut-encrypt#readme",
+  "dependencies": {
+    "encrypt": "0.0.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {}
+}
